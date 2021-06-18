@@ -1,0 +1,13 @@
+D:\AppropriateApp\AppropriateApp\bin\Debug\AppropriateApp.exe.config
+D:\AppropriateApp\AppropriateApp\bin\Debug\AppropriateApp.exe
+D:\AppropriateApp\AppropriateApp\bin\Debug\AppropriateApp.pdb
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.Properties.Resources.resources
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.csproj.GenerateResource.cache
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.csproj.CoreCompileInputs.cache
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.exe
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.pdb
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.AppNews.resources
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.FakeSoftwareUpdate.resources
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.FakeSoftwareUpdateCreator.resources
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.Form1.resources
+D:\AppropriateApp\AppropriateApp\obj\Debug\AppropriateApp.versioninfo.resources
